@@ -18,3 +18,5 @@ My interest in IT started when i was young and always surrounded in computers at
 I chose RMIT because it was flexible and it was available online and RMIT had the course which i wanted to study, i recommend online studying for those people who juggle lots of responsibility eg: Parents, carers etc 
 
 What did i expected to learn? Just learning the basics of IT that will help me with my degree and learning the job skills and applying it in the workforce
+
+#IDEAL JOB:
