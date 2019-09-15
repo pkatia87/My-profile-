@@ -19,4 +19,4 @@ I chose RMIT because it was flexible and it was available online and RMIT had th
 
 What did i expected to learn? Just learning the basics of IT that will help me with my degree and learning the job skills and applying it in the workforce
 
-#IDEAL JOB:
+
