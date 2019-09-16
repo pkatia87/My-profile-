@@ -20,3 +20,14 @@ I chose RMIT because it was flexible and it was available online and RMIT had th
 What did i expected to learn? Just learning the basics of IT that will help me with my degree and learning the job skills and applying it in the workforce
 
 
+IDEAL JOB
+
+Here is a link to my ideal job to be doing after a finish my degree https://au.indeed.com/Construction-Manager-jobs-in-Sydney-NSW?vjk=da911d2c812395ba
+
+Description of the position - it is looking after a couple of civil and building projects and overseeing related programs and what made the position quite appealing is the civil side of things in terms of the job and the salary is another which made it appealing 
+
+Skills and Qualifications required - Possess a degree in Project management, Construction Management, Architechture and Civil Engineering 
+
+Skills and Qualifications i currently have - i am currently have no skills or qualifications
+
+Plan on how to obtain the skills - i am currently undertaking my degree in construction management and it will be for 4 years and learning IT is a big part of this as well and it will help in learning architechture and upon the completion of the degree i will venture out and seek employment in my chosen field 
