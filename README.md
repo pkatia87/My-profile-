@@ -31,3 +31,5 @@ Skills and Qualifications required - Possess a degree in Project management, Con
 Skills and Qualifications i currently have - i am currently have no skills or qualifications
 
 Plan on how to obtain the skills - i am currently undertaking my degree in construction management and it will be for 4 years and learning IT is a big part of this as well and it will help in learning architechture and upon the completion of the degree i will venture out and seek employment in my chosen field 
+
+PERSONAL PROFILE
