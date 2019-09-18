@@ -26,10 +26,18 @@ Here is a link to my ideal job to be doing after a finish my degree https://au.i
 
 Description of the position - it is looking after a couple of civil and building projects and overseeing related programs and what made the position quite appealing is the civil side of things in terms of the job and the salary is another which made it appealing 
 
-Skills and Qualifications required - Possess a degree in Project management, Construction Management, Architechture and Civil Engineering 
+Skills and Qualifications required - Obtain a degree in Construcion Management 
 
 Skills and Qualifications i currently have - i am currently have no skills or qualifications
 
 Plan on how to obtain the skills - i am currently undertaking my degree in construction management and it will be for 4 years and learning IT is a big part of this as well and it will help in learning architechture and upon the completion of the degree i will venture out and seek employment in my chosen field 
 
 PERSONAL PROFILE
+
+Results for Myers-Briggs 
+
+ESFP: Extraverted Sensing Feeling Perceiving - they are pretty much the outgoing, life of the party and the fun type of person, they love being around people, centre of attention, loves variations of things. They can get distracted very easily but doesnt like confrontation and they are trustworthy 
+
+Results for Online Learning Style: Tactile/Kinesthetic learner - they are very hands-on and they learn through by doing activities in order to solve an answer and they are always moving out and about and sense of touch is important for them 
+
+Results for the another online test of my choice: I chose a creativity test and i had Creativity is a release - using my creativity to release emotions built up and putting them into physical form like painting, singing, write poems etc 
