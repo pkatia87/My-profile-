@@ -41,3 +41,8 @@ ESFP: Extraverted Sensing Feeling Perceiving - they are pretty much the outgoing
 Results for Online Learning Style: Tactile/Kinesthetic learner - they are very hands-on and they learn through by doing activities in order to solve an answer and they are always moving out and about and sense of touch is important for them 
 
 Results for the another online test of my choice: I chose a creativity test and i had Creativity is a release - using my creativity to release emotions built up and putting them into physical form like painting, singing, write poems etc 
+
+RESULTS SUMMARY:
+
+The results has shown that i am a very outgoing person and has a very hands on learning approach and sticking to routine can be tough but it is something i will get used to eventually. I can be stand off-ish sometimes in a new environment or crowd but once i get out of my shell and be more comfortable, i can be valuable in a team environment. Everyone else can be a bit different and learning their behaviour and adapting when needed. In a group setting, you would like to get everyone involved and if you nail everyone's behavioural style, you can get the most of the group and get more answers and the importance of working collectively in a team to get achieve something 
+
