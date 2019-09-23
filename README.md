@@ -46,3 +46,28 @@ RESULTS SUMMARY:
 
 The results has shown that i am a very outgoing person and has a very hands on learning approach and sticking to routine can be tough but it is something i will get used to eventually. I can be stand off-ish sometimes in a new environment or crowd but once i get out of my shell and be more comfortable, i can be valuable in a team environment. Everyone else can be a bit different and learning their behaviour and adapting when needed. In a group setting, you would like to get everyone involved and if you nail everyone's behavioural style, you can get the most of the group and get more answers and the importance of working collectively in a team to get achieve something 
 
+
+PROJECT IDEA
+
+OVERVIEW:
+
+Developing a game using Unity 
+The game i will be developing is Rugby Goal Kicking, from various spots on the rugby field ranging from 22, 40 and 50 metres out either towards the far left or right side of the field
+
+To make the game more interesting i will add in things like bonus points for kicking 5 goals in a row, you only have 4 balls to play with – if you miss 2 consecutive goals – you will lose a ball so you have 3 balls left now 
+
+I will be adding wind direction as well to provide resistance with the kicking and judging the direction and with practice and patience, this game will be great for all ages and user-friendly
+
+MOTIVATION
+
+Why the game is useful: 
+•	You get to play with your family and friends – more bonding time with everyone 
+•	Hand-eye co-ordination improvement for kids
+•	They develop new skills 
+•	Learn how to add points – good for kids and help them with their maths 
+•	Good stress reliever  for some people – another form of relaxation 
+•	Helps combat depression for some people 
+
+The graphics is great and can be either in 2D or in 3D form and comes in Day/night mode simulation 
+
+
