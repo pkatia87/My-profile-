@@ -61,11 +61,17 @@ I will be adding wind direction as well to provide resistance with the kicking a
 MOTIVATION
 
 Why the game is useful: 
+
 •	You get to play with your family and friends – more bonding time with everyone 
+
 •	Hand-eye co-ordination improvement for kids
+
 •	They develop new skills 
+
 •	Learn how to add points – good for kids and help them with their maths 
+
 •	Good stress reliever  for some people – another form of relaxation 
+
 •	Helps combat depression for some people 
 
 The graphics is great and can be either in 2D or in 3D form and comes in Day/night mode simulation 
