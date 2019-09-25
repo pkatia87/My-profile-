@@ -76,4 +76,13 @@ Why the game is useful:
 
 The graphics is great and can be either in 2D or in 3D form and comes in Day/night mode simulation 
 
+There's a few drawbacks that can anticipate along the way:
+
+•	Getting a pro-licence costs up to $1500 investment – for better and quality graphics
+
+•	No updates coming up for operating systems like Linux, OSX etc.
+
+•	Consumes so much memory 
+
+
 
