@@ -84,5 +84,61 @@ There's a few drawbacks that can anticipate along the way:
 
 •	Consumes so much memory 
 
+Tools and Technology:
+
+SOFTWARE REQUIRED:
+
+•	WINDOWS 7 SP1 + MAC OS 10.12
+
+•	CPU: SSE INSTRUCTION SET SUPPORT
+
+•	GRAPHICS CARD WITH DX CAPABILITIES
+
+•	iOS PLAYER REQUIRES iOS 9.0 or HIGHER 
+
+•	DESKTOP VERSIONS OF FIREFOX, CHROME, EDGE AND SAFARI
+
+
+SKILLS REQUIRED:
+
+•	SMART USE OF THE ASSET STORE
+
+•	PRE – PRODUCTION AND SCOPING
+
+•	PROGRAMMING – LEARNING HOW TO CODE
+
+•	FOCUS ON THE FUTURE – ALWAYS RELEASING NEW GAMES 
+
+
+OUTCOME:
+•	GETTING CERTIFIED – CREDENTIAL THAT VALIDATES FOUNDATIONAL SKILLS REQUIRED IN THE WORLD OF UNITY 
+
+•	DEPENDING IF YOU WANT TO BE HEAVILY INVESTED IN DEVELOPING GAMES – MUST HAVE  A BUDGET
+
+•	IMPACT – CAN DEMORALISE A NEW COMER INTO THE GAMING WORLD 
+
+
+
+REFERENCES:
+
+1.	Psychologies.co.uk/testingyourcreativestyle
+
+2.	Humanmetrics.com.au
+
+3.	Newgenapps.com
+
+4.	Unity3d/unity/system-requirements
+
+5.	Pluralsight.com>blog>software-development
+
+6.	Certifications.unity.com>docs>exam
+
+7.	Gamedesigning.org/why-video-games-are-good
+
+8.	Assetstore.unity.com
+
+9.	http://www.potenzaglobalsolutions.com/blogs/5-rarely-known-advantages-and-disadvantages-of-unity-game-development
+
+
 
 
