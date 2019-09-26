@@ -1,5 +1,5 @@
 # Introduction to Information Technology
-Assesment 1 - My Profile
+## Assesment 1 - My Profile
 
 Name: Pauliasi Katia
 
@@ -23,7 +23,7 @@ I chose RMIT because it was flexible and it was available online and RMIT had th
 What did i expected to learn? Just learning the basics of IT that will help me with my degree and learning the job skills and applying it in the workforce
 
 
-IDEAL JOB
+## IDEAL JOB
 
 Here is a link to my ideal job to be doing after a finish my degree https://au.indeed.com/Construction-Manager-jobs-in-Sydney-NSW?vjk=da911d2c812395ba
 
@@ -35,24 +35,26 @@ Skills and Qualifications i currently have - i am currently have no skills or qu
 
 Plan on how to obtain the skills - i am currently undertaking my degree in construction management and it will be for 4 years and learning IT is a big part of this as well and it will help in learning architechture and upon the completion of the degree i will venture out and seek employment in my chosen field 
 
-PERSONAL PROFILE
+## PERSONAL PROFILE
 
 Results for Myers-Briggs 
 
 ESFP: Extraverted Sensing Feeling Perceiving - they are pretty much the outgoing, life of the party and the fun type of person, they love being around people, centre of attention, loves variations of things. They can get distracted very easily but doesnt like confrontation and they are trustworthy 
 
-Results for Online Learning Style: Tactile/Kinesthetic learner - they are very hands-on and they learn through by doing activities in order to solve an answer and they are always moving out and about and sense of touch is important for them 
+Results for Online Learning Style: 
+
+Tactile/Kinesthetic learner - they are very hands-on and they learn through by doing activities in order to solve an answer and they are always moving out and about and sense of touch is important for them 
 
 Results for the another online test of my choice: I chose a creativity test and i had Creativity is a release - using my creativity to release emotions built up and putting them into physical form like painting, singing, write poems etc 
 
-RESULTS SUMMARY:
+## RESULTS SUMMARY:
 
 The results has shown that i am a very outgoing person and has a very hands on learning approach and sticking to routine can be tough but it is something i will get used to eventually. I can be stand off-ish sometimes in a new environment or crowd but once i get out of my shell and be more comfortable, i can be valuable in a team environment. Everyone else can be a bit different and learning their behaviour and adapting when needed. In a group setting, you would like to get everyone involved and if you nail everyone's behavioural style, you can get the most of the group and get more answers and the importance of working collectively in a team to get achieve something 
 
 
-PROJECT IDEA
+# PROJECT IDEA
 
-OVERVIEW:
+## OVERVIEW:
 
 Developing a game using Unity 
 The game i will be developing is Rugby Goal Kicking, from various spots on the rugby field ranging from 22, 40 and 50 metres out either towards the far left or right side of the field
@@ -61,7 +63,7 @@ To make the game more interesting i will add in things like bonus points for kic
 
 I will be adding wind direction as well to provide resistance with the kicking and judging the direction and with practice and patience, this game will be great for all ages and user-friendly
 
-MOTIVATION
+# MOTIVATION
 
 Why the game is useful: 
 
@@ -87,9 +89,9 @@ There's a few drawbacks that can anticipate along the way:
 
 •	Consumes so much memory 
 
-Tools and Technology:
+# Tools and Technology:
 
-SOFTWARE REQUIRED:
+## SOFTWARE REQUIRED:
 
 •	WINDOWS 7 SP1 + MAC OS 10.12
 
@@ -102,7 +104,7 @@ SOFTWARE REQUIRED:
 •	DESKTOP VERSIONS OF FIREFOX, CHROME, EDGE AND SAFARI
 
 
-SKILLS REQUIRED:
+# SKILLS REQUIRED:
 
 •	SMART USE OF THE ASSET STORE
 
@@ -113,7 +115,7 @@ SKILLS REQUIRED:
 •	FOCUS ON THE FUTURE – ALWAYS RELEASING NEW GAMES 
 
 
-OUTCOME:
+## OUTCOME:
 •	GETTING CERTIFIED – CREDENTIAL THAT VALIDATES FOUNDATIONAL SKILLS REQUIRED IN THE WORLD OF UNITY 
 
 •	DEPENDING IF YOU WANT TO BE HEAVILY INVESTED IN DEVELOPING GAMES – MUST HAVE  A BUDGET
@@ -122,7 +124,7 @@ OUTCOME:
 
 
 
-REFERENCES:
+## REFERENCES:
 
 1.	Psychologies.co.uk/testingyourcreativestyle
 
