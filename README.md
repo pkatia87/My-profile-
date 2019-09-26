@@ -45,7 +45,9 @@ Results for Online Learning Style:
 
 Tactile/Kinesthetic learner - they are very hands-on and they learn through by doing activities in order to solve an answer and they are always moving out and about and sense of touch is important for them 
 
-Results for the another online test of my choice: I chose a creativity test and i had Creativity is a release - using my creativity to release emotions built up and putting them into physical form like painting, singing, write poems etc 
+Results for the another online test of my choice:
+
+I chose a creativity test and i had Creativity is a release - using my creativity to release emotions built up and putting them into physical form like painting, singing, write poems etc 
 
 ## RESULTS SUMMARY:
 
@@ -54,7 +56,7 @@ The results has shown that i am a very outgoing person and has a very hands on l
 
 # PROJECT IDEA
 
-## OVERVIEW:
+# OVERVIEW:
 
 Developing a game using Unity 
 The game i will be developing is Rugby Goal Kicking, from various spots on the rugby field ranging from 22, 40 and 50 metres out either towards the far left or right side of the field
